@@ -49,10 +49,10 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Felix Li.</h2>;
-  const three = <h3 className="big-heading">Senior Full-Stack Developer</h3>;
+  const three = <h3 className="big-heading">I build things for the web and mobile</h3>;
   const four = (
     <p>
-      I am a senior software engineer with 10+ years of experience. Started professional career from 2013. Involved in many big / medium sized projects as well as startup companies with passion and ambition.\nSelf-motivated, high-problem solving skills, smart team player, communicator.
+      I am a senior software engineer with 10+ years of experience. Started professional career from 2013. Involved in many big / medium sized projects as well as startup companies with passion and ambition.
     </p>
   );
   const five = (
