@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['React', 'React-Native', 'Node', 'Vue', 'JavaScript (ES6+)', 'TypeScript', 'HTML & (S)CSS', 'GraphQL', 'Swift / Objective-C', 'Kotlin / Java', 'AWS', 'Firebase', 'Docker', 'Heroku', 'Terraform', 'CircleCI'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,7 +141,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>Hello! I'm Felix, a senior full-stack developer based in Miami, FL.</p>
 
             <p>
               I enjoy creating things that live on the internet, whether that be websites,
@@ -150,10 +150,11 @@ const About = () => {
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              Experienced web / mobile app developer who has a track record of success creating apps 
+              that are both well-received and commercially viable. Skilled with working as a team and 
+              incorporating input into projects. Ability to always look for ways to improve upon an 
+              already existing app to keep people using it and enjoying it. Strong eye for detail and 
+              tenacity to never quit on something until it is absolutely perfect.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
