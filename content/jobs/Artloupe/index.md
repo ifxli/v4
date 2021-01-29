@@ -7,9 +7,6 @@ range: 'June 2013 - November 2015'
 url: 'https://www.artloupe.org/'
 ---
 
-- Developed iOS (Objective-C) & Android (Java) mobile applications using
-MVC pattern.
-- Developed Backend using Asp.net, frontend using JavaScript / HTML /
-jQuery / CSS
-- Objective-C / Java / C# / XCode / Eclipse / Visual Studio / Cocoapods /
-Git / Jira
+- Developed iOS (Objective-C) & Android (Java) mobile applications using MVC pattern.
+- Developed Backend using Asp.net, frontend using JavaScript / HTML / jQuery / CSS
+- Objective-C / Java / C# / XCode / Eclipse / Visual Studio / Cocoapods / Git / Jira

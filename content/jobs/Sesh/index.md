@@ -11,5 +11,4 @@ url: ''
 - Developed web frontend using React/Redux, Mapbox, MaterialUI
 - Developed backend using Node/Express
 - Code refactoring for performance optimization
-- JavaScript / React / MaterialUI / HTML / CSS / ES6 / Babel / Jest / ESLint / Node / Express / Webstorm / Chrome DevTools / Postman / Git /
-Docker / Jira / Slack / AWS EC2 / S3 / CloudFront / Route53
+- JavaScript / React / MaterialUI / HTML / CSS / ES6 / Babel / Jest / ESLint / Node / Express / Webstorm / Chrome DevTools / Postman / Git / Docker / Jira / Slack / AWS EC2 / S3 / CloudFront / Route53

@@ -8,8 +8,6 @@ url: 'https://www.stitch.health/'
 ---
 
 - Built infrastructure of iOS and Android
-- Developed communication module using RocketChat and then
-Socket.io
+- Developed communication module using RocketChat and then Socket.io
 - Developed the integration module for RestfulAPI / JSON
-- Swift / Java / RocketChat / Socket.io / XCode / Android Studio /
-Cocoapods / Gradle / Git / Jira / Slack / AWS EC2 / S3
+- Swift / Java / RocketChat / Socket.io / XCode / Android Studio / Cocoapods / Gradle / Git / Jira / Slack / AWS EC2 / S3
