@@ -7,6 +7,7 @@ module.exports = {
       'Felix Li is a software engineer specializing in building exceptional websites, applications, and everything in between.',
     siteUrl: 'https://fxlisoft.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: '',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
