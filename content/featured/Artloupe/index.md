@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '2'
 title: 'ArtLoupe'
 cover: './artloupe.jpg'
 external: 'https://www.artloupe.org/'
