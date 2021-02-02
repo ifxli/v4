@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'ArtLoupe'
-cover: './artloupe.png'
+cover: './artloupe.jpg'
 external: 'https://www.artloupe.org/'
 tech:
   - XCode
