@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '6'
 title: 'Textual.ai'
 cover: './Templates.png'
 tech:
