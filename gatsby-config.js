@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Felix Li',
+    title: 'Felix Josh Wang',
     description:
-      'Felix Li is a software engineer specializing in building exceptional websites, applications, and everything in between.',
+      'Felix is a software engineer specializing in building exceptional websites, applications, and everything in between.',
     siteUrl: 'https://fxlisoft.netlify.app', // No trailing slash allowed!
     image: '/og.jpg', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
@@ -19,7 +19,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'FelixLi',
+        name: 'FelixJoshWang',
         short_name: 'Felix',
         start_url: '/',
         background_color: config.colors.darkNavy,
